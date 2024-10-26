@@ -397,22 +397,6 @@
     "IsOverlayClassPlanEnabled": false,
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,
-    "TempClassPlanSetupTime": "2024-09-19T00:01:49.8492229+08:00",
-    "ClassPlanGroups": {
-        "acaf4ef0-e261-4262-b941-34ea93cb4369": {
-            "Name": "\u9ED8\u8BA4",
-            "IsGlobal": false,
-            "IsActive": false
-        },
-        "00000000-0000-0000-0000-000000000000": {
-            "Name": "\u5168\u5C40\u8BFE\u8868\u7FA4",
-            "IsGlobal": true,
-            "IsActive": false
-        }
-    },
-    "IsOverlayClassPlanEnabled": false,
-    "OverlayClassPlanId": null,
-    "TempClassPlanId": null,
     "TempClassPlanSetupTime": "2024-05-03T20:33:04.7829202+08:00",
     "IsActive": false
 }
