@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Hello",
+    "OrganizationName": "yhfzClassSchdule",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/hong-shi-jun/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 2
